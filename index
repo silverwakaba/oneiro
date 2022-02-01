@@ -8,8 +8,8 @@
             "avatar": null,
             "jabatan": "Member",
             "batch": 1,
-            "ulangtahun": "1945-01-31",
-            "tinggi": 160,
+            "ulangtahun": "1945-03-01",
+            "tinggi": 167,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -19,8 +19,15 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Sebagai seorang pencuri yang lihai dan menyukai tantangan, Echidna memutuskan untuk mencari tahu rumor tentang sebuah artefak yang tidak pernah berhasil didapatkan oleh siapapun, dikabarkan terletak pada menara kuno milik seorang penyihir.",
+					"p2": "Sesampainya disana, seluruh rintangan yang ada pada menara berhasil ia lewati dengan mudah dengan kemampuan yang ia miliki. Pada akhirnya ia pun menemukan artefak yang dibicarakan; sebuah gulungan berisi teks dalam bahasa sihir. Malangnya, ia malah berpindah ke dunia ini setelah membuka gulungan itu.",
+					"p3": "Kini, Echidna berusaha mencari cara untuk pulang kembali ke dunia asalnya. Setelah mempelajari beberapa hal dari dunia asing ini, ia pun memutuskan menjadi seorang VTuber untuk mencari jalan untuk kembali."
+                }
+            }
         },
+		
         "kurokuma-wakaba": {
             "id": 2,
             "nama": "Kurokuma Wakaba",
@@ -30,7 +37,7 @@
             "jabatan": "Wakil Ketua",
             "batch": 1,
             "ulangtahun": "1945-24-24",
-            "tinggi": 160,
+            "tinggi": 165,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -40,8 +47,14 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Awalnya, saya adalah seorang manusia biasa yang menjalani kehidupan yang juga biasa-biasa saja. Suatu hari, karena saya merasa tidak puas dengan kehidupan yang saya jalani, saya pun berdoa agar menjadi seseorang yang memiliki banyak uang agar bisa melakukan apa pun.",
+					"p2": "Sayangnya kehidupan itu seperti sistem yang sering mengalami masalah: doa yang saya panjatkan memang dikabulkan, saya memang mendapatkan umm... uang, atau lebih tepatnya saya menjadi seekor beruang."
+                }
+            }
         },
+		
         "lurcainne-noctua": {
             "id": 3,
             "nama": "Lurcainne Noctua",
@@ -50,7 +63,7 @@
             "avatar": null,
             "jabatan": "Member",
             "batch": 1,
-            "ulangtahun": "1945-01-31",
+            "ulangtahun": "1945-04-12",
             "tinggi": 160,
             "ilustrator": null,
             "ilustrator_url": null,
@@ -61,8 +74,15 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Lurcainne Noctua, the librarian of The Library of Tales. After witnessing a peculiar tales weaved within the virtual spaces, he decides to see what kind of tales unfold in this new realm.",
+					"p2": "Even though he is a storyteller at heart, he quickly founds himself playing all the games inside the virtual space. His journey of curiosity also piqued the curiosity of other fellow virtual beings, which they then invite him to their carnival of joy.",
+					"p3": "And so, the owl soars even further and higher to this new realm!"
+                }
+            }
         },
+		
         "polaris": {
             "id": 4,
             "nama": "Polaris",
@@ -82,8 +102,15 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Cantik dah mam lum??",
+					"p2": "Hii! Aku Polaris. Kalian bisa panggil aku Pol, Polar, Polaris, atau kalo kamu mau ngasih nama panggilan sendiri juga bolehhhh!!",
+					"p3": "Aku suka gambar! Apa lagi yg lucu-lucu! Kalo kalian mau aku gambarin bisa komis aja yaaa. Portofolionya ada disini: https://sites.google.com/view/polariscommissionsite (harganya tanya di dm aja ya)."
+                }
+            }
         },
+		
         "ren-akashi": {
             "id": 5,
             "nama": "Ren Akashi",
@@ -103,8 +130,15 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "THERE'S NOTHING ABOUT ME, GET OUT",
+					"p2": "Nah, im kidding",
+					"p3": "Hello there....Ren Akashi disini! Seorang musisi yang kerjaannya lebih sering main game sambil nge-SIMP VTuber daripada main musiknya"
+                }
+            }
         },
+		
         "siraaifa-algojo": {
             "id": 6,
             "nama": "Siraaifa Algojo",
@@ -113,7 +147,7 @@
             "avatar": null,
             "jabatan": "Member",
             "batch": 1,
-            "ulangtahun": "1945-01-31",
+            "ulangtahun": "1945-04-26",
             "tinggi": 160,
             "ilustrator": null,
             "ilustrator_url": null,
@@ -124,18 +158,24 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Warna... Kalau bisa memilih, kamu bakal memilih warna apa? Biru? Merah? Hijau? Atau yang lainnya? Warna apapun yang kamu pilih, intinya kuharap kamu bahagia!",
+					"p2": "Sang pesulap keliling yang ternyata [REDACTED] , Tiada yang tahu dia siapa, sang pesulap cuman mengenalkan diri sebagai pesulap saja"
+                }
+            }
         },
+		
         "asteria-natsuko": {
             "id": 7,
             "nama": "Asteria Natsuko",
             "url": "asteria-natsuko",
-            "panggilan": "Aster",
+            "panggilan": "Aster, Asteria",
             "avatar": null,
             "jabatan": "Member",
             "batch": 2,
-            "ulangtahun": "1945-01-31",
-            "tinggi": 160,
+            "ulangtahun": "1945-04-07",
+            "tinggi": 145,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -145,18 +185,24 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Shine Like a Star ☆ Bloom Like a Flower ✿",
+                    "p2": "It's me Asteria Natsuko! Nice to meet you! ❤️"
+                }
+            }
         },
+
         "bimbo-fukurou": {
             "id": 8,
             "nama": "Bimbo Fukurou",
             "url": "bimbo-fukurou",
-            "panggilan": "Bimbo",
+            "panggilan": "Bimbo, Bimbim",
             "avatar": null,
             "jabatan": "Member",
             "batch": 2,
-            "ulangtahun": "1945-01-31",
-            "tinggi": 160,
+            "ulangtahun": "1945-05-04",
+            "tinggi": 168,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -166,8 +212,14 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Bimbo is the ressurected son of the Mighty Garuda Suparna by the blessings from the Moon Deities, Lord Chandra and Goddess Ratih after the Bloody Lunar Eclipse, the incident that befalls the garuda's clan under the siege of demon Kala Rahu.",
+                    "p2": "His calling is to protect the children of garuda and his brethen as the night sentinel to ward off the evil spirits (Bhuta Kala) should Kala Rahu arrives once more when the Moon Deities are in the grave danger, just like what his father did long ago."
+                }
+            }
         },
+
         "bion-haku": {
             "id": 9,
             "nama": "Bion Haku",
@@ -187,8 +239,13 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "TBA"
+                }
+            }
         },
+
         "jacko-takayuki": {
             "id": 10,
             "nama": "Jacko Takayuki",
@@ -198,7 +255,7 @@
             "jabatan": "Member",
             "batch": 2,
             "ulangtahun": "1945-01-31",
-            "tinggi": 160,
+            "tinggi": 191,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -208,14 +265,22 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Di universe 002 ini, Jacko Takayuki bekerja sebagai peneliti di organisasi rahasia yaitu SCP Foundation. Kehidupannya begitu bahagian sampai datanglah job dari atasan untuk mencari tahu informasi mengenai virtual anomali yaitu 'E.V.E' yg berusaha mengungkapkan beberapa anomali yg ada di SCP Foundation ke dunia.",
+                    "p2": "Disini saya di temani oleh peneliti lain yaitu Dr. D[REDACTED], sampai saat dimana kejadian contaiment breach terjadi. Pada saat kejadian itu, saya dan Dr. D[REDACTED] sedang menginterview SCP old AI, pada saat itu Dr.D menyarankan untuk memberikan jaringan internet kepada SCP tersebut.",
+                    "p3": "Dr.D memberitahu bahwa untuk mengetahui apakah ada anomali virtual atau tidak maka kita harus mengeksperimentkan SCP ini ke dunia virtual yaitu dengan cara mengkoneksikan internet kedalam SCP ini. Saya menolak dengan keras tetapi dr.d memaksa memasukan internet pada SCP ini, setelah itu contaiment breach dalam site 19 terjadi.",
+                    "p4": "Dikirakan korban dari kejadian ini diperkirakan 1000 personel meninggal, dan setelah itu saya di turunkan jabatan nya dan diberi tugas baru."
+                }
+            }
         },
+
         "marsha-rioshuka": {
             "id": 11,
             "nama": "Marsha Rioshuka",
             "url": "marsha-rioshuka",
             "panggilan": "Marsha",
-            "avatar": null,
+            "avatar": "https://cdn.discordapp.com/attachments/937561089992953918/937609849041223700/vtuber_model_baru_lagi_full_body_ver_png_nya_2_400.png",
             "jabatan": "Member",
             "batch": 2,
             "ulangtahun": "1945-01-31",
@@ -226,11 +291,16 @@
             "l2d_url": null,
             "twitter_url": "https://twitter.com/marsharioshuka",
             "youtube_url": "https://www.youtube.com/channel/UCPq0CdTQnOfayrhUpPzTsTA",
-            "twitch_url": null,
+            "twitch_url": "https://www.twitch.tv/marsharioshuka",
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "KHOOR!!! L ORYH BRX!!!!! grqw ohdyh ph!!! BRX FDQW OHDYH PH!!! L ORYH BRX!!!! DQG BRX!! DQG BRX!! DQG BRX!!! DOO RI BRX!!!! krshohvv! krshohvv! krshohvv urpdqwlf!!! grqw txhvwlrq ph!!! QHYHU TXHVWLRQ PH!!! L ORYH BRX!!!!! SOHDVH!!"
+                }
+            }
         },
+
         "nanami-aerithia": {
             "id": 12,
             "nama": "Nanami Aerithia",
@@ -239,8 +309,8 @@
             "avatar": null,
             "jabatan": "Member",
             "batch": 2,
-            "ulangtahun": "1945-01-31",
-            "tinggi": 160,
+            "ulangtahun": "1945-06-26",
+            "tinggi": 157,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -250,8 +320,13 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Hemlooo semua! Nanami Aerithia disini~ Fallen Devil who running away from HELL."
+                }
+            }
         },
+
         "rise-walker": {
             "id": 13,
             "nama": "Rise Walker",
@@ -271,18 +346,23 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "TBA"
+                }
+            }
         },
+
         "wantaps": {
             "id": 14,
             "nama": "WanTaps",
             "url": "wantaps",
-            "panggilan": "Wan",
+            "panggilan": "Wan, Wawan",
             "avatar": null,
             "jabatan": "Member",
             "batch": 2,
-            "ulangtahun": "1945-01-31",
-            "tinggi": 160,
+            "ulangtahun": "1945-03-28",
+            "tinggi": 150,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -292,18 +372,23 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Hello im WanTaps Ceha from ONEIRO ID! I mostly doing Gaming, and maybe ASMR."
+                }
+            }
         },
+
         "william-nathanael": {
             "id": 15,
             "nama": "William Nathanael",
             "url": "william-nathanael",
-            "panggilan": "Wyl",
+            "panggilan": "Wyl, Nathan",
             "avatar": null,
             "jabatan": "Member",
             "batch": 2,
-            "ulangtahun": "1945-01-31",
-            "tinggi": 160,
+            "ulangtahun": "1945-05-26",
+            "tinggi": 175,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -313,8 +398,16 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Hello! Pleased to meet you. (^o^)",
+                    "p2": "I'm an Ex-Butler who lost his master and now trapped into a virtual world by accident. So I'm going to help you all by becoming Virtual Butler, and also Entertaining all of you who needs it as well.",
+                    "p3": "I'm Nobody Special, just a human who loves cooking and doing house chores.",
+                    "p4": "I hope to serve you well in the future. (^ω^)"
+                }
+            }
         },
+
         "wiza-wardian": {
             "id": 16,
             "nama": "Wiza Wardian",
@@ -323,8 +416,8 @@
             "avatar": null,
             "jabatan": "Member",
             "batch": 2,
-            "ulangtahun": "1945-01-31",
-            "tinggi": 160,
+            "ulangtahun": "1945-10-09",
+            "tinggi": 159,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -334,7 +427,17 @@
             "twitch_url": null,
             "perkenalan_video_url": null,
             "perkenalan_suara_url": null,
-            "biografi": null
+            "biografi": {
+                "paragraf": {
+                    "p1": "Seorang penduduk desa virtual yang ingin jadi vtuber. Dengan keterbatasan spek laptopnya, Wiza berusaha membuat konten gaming bermodalkan passion. Tapi yang ramai malah konten musik.",
+                    "p2": "What people say about Wiza",
+                    "p3": "'Good morning, pizza boy.' -Sanshiro",
+                    "p4": "'Cute you are. Support I must!' -Rumskii",
+                    "p5": "'Aku kira wiz bakal jadi orang yang nandayo koitsu.' -Siraaifa",
+                    "p6": "'Happy new year pak sotto!!' -Someone, salah orang tengah malam",
+                    "p7": "'Nice collarbone. Nice navel. Nice armpit. I love this fan art because it's full of my favorite tastes (LOL) Thank you for drawing amazing fan art.' -Siu Lee"
+                }
+            }
         }
     }
 }
