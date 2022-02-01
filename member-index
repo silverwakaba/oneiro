@@ -1,0 +1,115 @@
+{
+    "content": {
+        "black-eye-echidna": {
+            "id": 1,
+            "nama": "Black Eye Echidna",
+            "url": "black-eye-echidna",
+            "avatar": null
+        },
+        
+        "kurokuma-wakaba": {
+            "id": 2,
+            "nama": "Kurokuma Wakaba",
+            "url": "kurokuma-wakaba",
+            "avatar": null
+        },
+        
+        "lurcainne-noctua": {
+            "id": 3,
+            "nama": "Lurcainne Noctua",
+            "url": "lurcainne-noctua",
+            "avatar": null
+        },
+        
+        "polaris": {
+            "id": 4,
+            "nama": "Polaris",
+            "url": "polaris",
+            "avatar": null
+        },
+        
+        "ren-akashi": {
+            "id": 5,
+            "nama": "Ren Akashi",
+            "url": "ren-akashi",
+            "avatar": null
+        },
+        
+        "siraaifa-algojo": {
+            "id": 6,
+            "nama": "Siraaifa Algojo",
+            "url": "siraaifa-algojo",
+            "avatar": null
+        },
+        
+        "asteria-natsuko": {
+            "id": 7,
+            "nama": "Asteria Natsuko",
+            "url": "asteria-natsuko",
+            "avatar": null
+        },
+
+        "bimbo-fukurou": {
+            "id": 8,
+            "nama": "Bimbo Fukurou",
+            "url": "bimbo-fukurou",
+            "avatar": null
+        },
+
+        "bion-haku": {
+            "id": 9,
+            "nama": "Bion Haku",
+            "url": "bion-haku",
+            "avatar": null
+        },
+
+        "jacko-takayuki": {
+            "id": 10,
+            "nama": "Jacko Takayuki",
+            "url": "jacko-takayuki",
+            "avatar": null
+        },
+
+        "marsha-rioshuka": {
+            "id": 11,
+            "nama": "Marsha Rioshuka",
+            "url": "marsha-rioshuka",
+            "avatar": "https://cdn.discordapp.com/attachments/937561089992953918/937609849041223700/vtuber_model_baru_lagi_full_body_ver_png_nya_2_400.png"
+        },
+
+        "nanami-aerithia": {
+            "id": 12,
+            "nama": "Nanami Aerithia",
+            "url": "nanami-aerithia",
+            "avatar": null
+        },
+
+        "rise-walker": {
+            "id": 13,
+            "nama": "Rise Walker",
+            "url": "rise-walker",
+            "avatar": null
+        },
+
+        "wantaps": {
+            "id": 14,
+            "nama": "WanTaps",
+            "url": "wantaps",
+            "avatar": null
+        },
+
+        "william-nathanael": {
+            "id": 15,
+            "nama": "William Nathanael",
+            "url": "william-nathanael",
+            "avatar": null
+        },
+
+        "wiza-wardian": {
+            "id": 16,
+            "nama": "Wiza Wardian",
+            "url": "wiza-wardian",
+            "avatar": null
+        }
+    }
+}
