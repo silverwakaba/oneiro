@@ -22,12 +22,12 @@
             "biografi": {
                 "paragraf": {
                     "p1": "Sebagai seorang pencuri yang lihai dan menyukai tantangan, Echidna memutuskan untuk mencari tahu rumor tentang sebuah artefak yang tidak pernah berhasil didapatkan oleh siapapun, dikabarkan terletak pada menara kuno milik seorang penyihir.",
-					"p2": "Sesampainya disana, seluruh rintangan yang ada pada menara berhasil ia lewati dengan mudah dengan kemampuan yang ia miliki. Pada akhirnya ia pun menemukan artefak yang dibicarakan; sebuah gulungan berisi teks dalam bahasa sihir. Malangnya, ia malah berpindah ke dunia ini setelah membuka gulungan itu.",
-					"p3": "Kini, Echidna berusaha mencari cara untuk pulang kembali ke dunia asalnya. Setelah mempelajari beberapa hal dari dunia asing ini, ia pun memutuskan menjadi seorang VTuber untuk mencari jalan untuk kembali."
+                    "p2": "Sesampainya disana, seluruh rintangan yang ada pada menara berhasil ia lewati dengan mudah dengan kemampuan yang ia miliki. Pada akhirnya ia pun menemukan artefak yang dibicarakan; sebuah gulungan berisi teks dalam bahasa sihir. Malangnya, ia malah berpindah ke dunia ini setelah membuka gulungan itu.",
+                    "p3": "Kini, Echidna berusaha mencari cara untuk pulang kembali ke dunia asalnya. Setelah mempelajari beberapa hal dari dunia asing ini, ia pun memutuskan menjadi seorang VTuber untuk mencari jalan untuk kembali."
                 }
             }
         },
-		
+        
         "kurokuma-wakaba": {
             "id": 2,
             "nama": "Kurokuma Wakaba",
@@ -36,7 +36,7 @@
             "avatar": null,
             "jabatan": "Wakil Ketua",
             "batch": 1,
-            "ulangtahun": "1945-24-24",
+            "ulangtahun": "1945-04-24",
             "tinggi": 165,
             "ilustrator": null,
             "ilustrator_url": null,
@@ -50,11 +50,11 @@
             "biografi": {
                 "paragraf": {
                     "p1": "Awalnya, saya adalah seorang manusia biasa yang menjalani kehidupan yang juga biasa-biasa saja. Suatu hari, karena saya merasa tidak puas dengan kehidupan yang saya jalani, saya pun berdoa agar menjadi seseorang yang memiliki banyak uang agar bisa melakukan apa pun.",
-					"p2": "Sayangnya kehidupan itu seperti sistem yang sering mengalami masalah: doa yang saya panjatkan memang dikabulkan, saya memang mendapatkan umm... uang, atau lebih tepatnya saya menjadi seekor beruang."
+                    "p2": "Sayangnya kehidupan itu seperti sistem yang sering mengalami masalah: doa yang saya panjatkan memang dikabulkan, saya memang mendapatkan umm... uang, atau lebih tepatnya saya menjadi seekor beruang."
                 }
             }
         },
-		
+        
         "lurcainne-noctua": {
             "id": 3,
             "nama": "Lurcainne Noctua",
@@ -63,8 +63,8 @@
             "avatar": null,
             "jabatan": "Member",
             "batch": 1,
-            "ulangtahun": "1945-04-12",
-            "tinggi": 160,
+            "ulangtahun": "1945-05-12",
+            "tinggi": 181,
             "ilustrator": null,
             "ilustrator_url": null,
             "l2d": null,
@@ -77,12 +77,12 @@
             "biografi": {
                 "paragraf": {
                     "p1": "Lurcainne Noctua, the librarian of The Library of Tales. After witnessing a peculiar tales weaved within the virtual spaces, he decides to see what kind of tales unfold in this new realm.",
-					"p2": "Even though he is a storyteller at heart, he quickly founds himself playing all the games inside the virtual space. His journey of curiosity also piqued the curiosity of other fellow virtual beings, which they then invite him to their carnival of joy.",
-					"p3": "And so, the owl soars even further and higher to this new realm!"
+                    "p2": "Even though he is a storyteller at heart, he quickly founds himself playing all the games inside the virtual space. His journey of curiosity also piqued the curiosity of other fellow virtual beings, which they then invite him to their carnival of joy.",
+                    "p3": "And so, the owl soars even further and higher to this new realm!"
                 }
             }
         },
-		
+        
         "polaris": {
             "id": 4,
             "nama": "Polaris",
@@ -105,12 +105,12 @@
             "biografi": {
                 "paragraf": {
                     "p1": "Cantik dah mam lum??",
-					"p2": "Hii! Aku Polaris. Kalian bisa panggil aku Pol, Polar, Polaris, atau kalo kamu mau ngasih nama panggilan sendiri juga bolehhhh!!",
-					"p3": "Aku suka gambar! Apa lagi yg lucu-lucu! Kalo kalian mau aku gambarin bisa komis aja yaaa. Portofolionya ada disini: https://sites.google.com/view/polariscommissionsite (harganya tanya di dm aja ya)."
+                    "p2": "Hii! Aku Polaris. Kalian bisa panggil aku Pol, Polar, Polaris, atau kalo kamu mau ngasih nama panggilan sendiri juga bolehhhh!!",
+                    "p3": "Aku suka gambar! Apa lagi yg lucu-lucu! Kalo kalian mau aku gambarin bisa komis aja yaaa. Portofolionya ada disini: https://sites.google.com/view/polariscommissionsite (harganya tanya di dm aja ya)."
                 }
             }
         },
-		
+        
         "ren-akashi": {
             "id": 5,
             "nama": "Ren Akashi",
@@ -128,17 +128,17 @@
             "twitter_url": "https://twitter.com/Ren_Akashi_",
             "youtube_url": "https://www.youtube.com/channel/UCNkj7b0jncXROUeIeROZ4Og",
             "twitch_url": null,
-            "perkenalan_video_url": null,
+            "perkenalan_video_url": "https://www.youtube.com/embed/st5Pr1we-bQ",
             "perkenalan_suara_url": null,
             "biografi": {
                 "paragraf": {
                     "p1": "THERE'S NOTHING ABOUT ME, GET OUT",
-					"p2": "Nah, im kidding",
-					"p3": "Hello there....Ren Akashi disini! Seorang musisi yang kerjaannya lebih sering main game sambil nge-SIMP VTuber daripada main musiknya"
+                    "p2": "Nah, im kidding.",
+                    "p3": "Hello there.... Ren Akashi disini! Seorang musisi yang kerjaannya lebih sering main game sambil nge-SIMP VTuber daripada main musiknya."
                 }
             }
         },
-		
+        
         "siraaifa-algojo": {
             "id": 6,
             "nama": "Siraaifa Algojo",
@@ -161,11 +161,11 @@
             "biografi": {
                 "paragraf": {
                     "p1": "Warna... Kalau bisa memilih, kamu bakal memilih warna apa? Biru? Merah? Hijau? Atau yang lainnya? Warna apapun yang kamu pilih, intinya kuharap kamu bahagia!",
-					"p2": "Sang pesulap keliling yang ternyata [REDACTED] , Tiada yang tahu dia siapa, sang pesulap cuman mengenalkan diri sebagai pesulap saja"
+                    "p2": "Sang pesulap keliling yang ternyata [REDACTED], tiada yang tahu dia siapa, sang pesulap cuman mengenalkan diri sebagai pesulap saja."
                 }
             }
         },
-		
+        
         "asteria-natsuko": {
             "id": 7,
             "nama": "Asteria Natsuko",
@@ -318,7 +318,7 @@
             "twitter_url": "https://twitter.com/NanamiAerithia",
             "youtube_url": "https://www.youtube.com/channel/UCCJDQUjXjhA9NJqhbLL0pLg",
             "twitch_url": null,
-            "perkenalan_video_url": null,
+            "perkenalan_video_url": "https://www.youtube.com/embed/krxy9InOAMc",
             "perkenalan_suara_url": null,
             "biografi": {
                 "paragraf": {
