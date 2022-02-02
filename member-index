@@ -112,24 +112,37 @@
             "avatar": null
         }
     },
+    
     "faq": {
         "what": {
             "id": "what",
             "kepala": "Apa itu Oneiro?",
             "paragraf": {
-                "p1": "Oneiro adalah sebuah tim yang mayoritas membernya merupakan VTuber, Content Creator, Digital Artist dan Virtual Singer.",
-                "p2": "Dengan keberagaman yang dimiliki oleh Oneiro, harapan kedepannya adalah kami semua bisa mencapai tujuan yang sama meski pun impiannya berbeda-beda.",
-                "p3": "Dan sedikit trivia tidak penting, Oneiro itu bukan agensi."
+                "p1": {
+                    "p": "Oneiro adalah sebuah tim yang mayoritas membernya merupakan VTuber, Content Creator, Digital Artist dan Virtual Singer."
+                },
+                "p2": {
+                    "p2": "Dengan keberagaman yang dimiliki oleh Oneiro, harapan kedepannya adalah kami semua bisa mencapai tujuan yang sama meski pun impiannya berbeda-beda."
+                },
+                "p3": {
+                    "p3": "Dan sedikit trivia tidak penting, Oneiro itu bukan agensi."
+                }
             }
         },
+
         "who": {
             "id": "who",
             "kepala": "Siapa saja member Oneiro?",
             "paragraf": {
-                "p1": "Sampai saat ini, Oneiro memiliki 16 member yang statusnya beragam, dari mulai yang masih aktif, semi-hiatus dan hiatus.",
-                "p2": "Untuk list dan detail dari member Oneiro bisa kamu lihat melalui menu di atas."
+                "p1": {
+                    "p": "Sampai saat ini, Oneiro memiliki 16 member yang statusnya beragam, dari mulai yang masih aktif, semi-hiatus dan hiatus."
+                },
+                "p2": {
+                    "p": "Untuk list dan detail dari member Oneiro bisa kamu lihat melalui menu di atas."
+                }
             }
         },
+
         "when": {
             "id": "when",
             "kepala": "Kapan Oneiro terbentuk?",
@@ -137,26 +150,37 @@
                 "p1": "Ide dan rencananya sudah ada sejak cukup lama, namun baru direalisasikan secara resmi pada suatu hari, tengah malam di bulan Agustus 2021."
             }
         },
+
         "why": {
             "id": "why",
             "kepala": "Kenapa Oneiro dibentuk?",
             "paragraf": {
-                "p1": "Rencana awal dari pembentukan Oneiro adalah sebagai sebuah platform yang menaungi VTuber, Content Creator, Digital Artist dan Virtual Singer indie untuk dapat saling belajar, berbagi dan berkolaborasi, antara satu sama lain sebagai sebuah keluarga virtual yang saling mengayomi."
+                "p1": {
+                    "p": "Rencana awal dari pembentukan Oneiro adalah sebagai sebuah platform yang menaungi VTuber, Content Creator, Digital Artist dan Virtual Singer indie untuk dapat saling belajar, berbagi dan berkolaborasi, antara satu sama lain sebagai sebuah keluarga virtual yang saling mengayomi."
+                }
             }
         },
+
         "where": {
             "id": "where",
             "kepala": "Dimana Oneiro beraktifitas?",
             "paragraf": {
-                "p1": "Oneiro dan seluruh membernya secara umum beraktifitas di platform virtual seperti Facebook, Twitter, Youtube, Twitch dan lainnya.",
-                "p2": "Kamu bisa berkenalan lebih dekat dengan seluruh membernya dengan melihat detai dari masing-masing member."
+                "p1": {
+                    "p": "Oneiro dan seluruh membernya secara umum beraktifitas di platform virtual seperti Facebook, Twitter, Youtube, Twitch dan lainnya."
+                },
+                "p2": {
+                    "p": "Kamu bisa berkenalan lebih dekat dengan seluruh membernya dengan melihat detai dari masing-masing member."
+                }
             }
         },
+
         "how": {
             "id": "how",
             "kepala": "Bagaimana rencana kedepan Oneiro?",
             "paragraf": {
-                "p1": "Oneiro dan seluruh membernya akan selalu berusaha semaksimal mungkin untuk memberikan yang terbaik untuk mencapai cita-cita yang diinginkan."
+                "p1": {
+                    "p": "Oneiro dan seluruh membernya akan selalu berusaha semaksimal mungkin untuk memberikan yang terbaik untuk mencapai cita-cita yang diinginkan."
+                }
             }
         }
     }
