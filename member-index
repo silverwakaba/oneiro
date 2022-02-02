@@ -114,13 +114,16 @@
     },
     "faq": {
         "what": {
+            "id": "what",
             "kepala": "Apa itu Oneiro?",
             "paragraf": {
                 "p1": "Oneiro adalah sebuah tim yang mayoritas membernya merupakan VTuber, Content Creator, Digital Artist dan Virtual Singer.",
-                "p2": "Dengan keberagaman yang dimiliki oleh Oneiro, harapan kedepannya adalah kami semua bisa mencapai tujuan yang sama meski pun impiannya berbeda-beda."
+                "p2": "Dengan keberagaman yang dimiliki oleh Oneiro, harapan kedepannya adalah kami semua bisa mencapai tujuan yang sama meski pun impiannya berbeda-beda.",
+                "p3": "Dan sedikit trivia tidak penting, Oneiro itu bukan agensi."
             }
         },
         "who": {
+            "id": "who",
             "kepala": "Siapa saja member Oneiro?",
             "paragraf": {
                 "p1": "Sampai saat ini, Oneiro memiliki 16 member yang statusnya beragam, dari mulai yang masih aktif, semi-hiatus dan hiatus.",
@@ -128,18 +131,21 @@
             }
         },
         "when": {
+            "id": "when",
             "kepala": "Kapan Oneiro terbentuk?",
             "paragraf": {
-                "p1": "Ide dan rencananya sudah ada sejak jauh-jauh hari, namun baru direalisasikan secara resmi pada bulan Agustus 2021."
+                "p1": "Ide dan rencananya sudah ada sejak cukup lama, namun baru direalisasikan secara resmi pada suatu hari, tengah malam di bulan Agustus 2021."
             }
         },
         "why": {
+            "id": "why",
             "kepala": "Kenapa Oneiro dibentuk?",
             "paragraf": {
-                "p1": "Rencana awal dari pembentukan Oneiro adalah sebagai sebuah platform yang menaungi VTuber, Content Creator, Digital Artist dan Virtual Singer indie untuk dapat saling belajar, berbagi dan berkolaborasi, antara satu sama lain sebagai sebuah keluarga."
+                "p1": "Rencana awal dari pembentukan Oneiro adalah sebagai sebuah platform yang menaungi VTuber, Content Creator, Digital Artist dan Virtual Singer indie untuk dapat saling belajar, berbagi dan berkolaborasi, antara satu sama lain sebagai sebuah keluarga virtual yang saling mengayomi."
             }
         },
         "where": {
+            "id": "where",
             "kepala": "Dimana Oneiro beraktifitas?",
             "paragraf": {
                 "p1": "Oneiro dan seluruh membernya secara umum beraktifitas di platform virtual seperti Facebook, Twitter, Youtube, Twitch dan lainnya.",
@@ -147,6 +153,7 @@
             }
         },
         "how": {
+            "id": "how",
             "kepala": "Bagaimana rencana kedepan Oneiro?",
             "paragraf": {
                 "p1": "Oneiro dan seluruh membernya akan selalu berusaha semaksimal mungkin untuk memberikan yang terbaik untuk mencapai cita-cita yang diinginkan."
